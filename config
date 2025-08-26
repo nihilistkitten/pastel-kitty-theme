@@ -1,7 +1,7 @@
 #pastel kitty config
-background_opacity 0.5
+background_opacity 0.6
 background      #1f1f1f
-foreground      #ff9fcf 
+foreground      #ff97c8
 
 font_family      JetBrains Mono
 bold_font        auto 
@@ -19,11 +19,11 @@ color0                      #000000
 color8                      #53004f
 
 #red
-color1                      #ff50a2
-color9                      #ffabd5
+color1                      #8991ff
+color9                      #a4bbec
 
 #green
-color2                      #ffdda9
+color2                      #ff8dd3
 color10                     #fff3cb
 
 #yellow
@@ -39,8 +39,12 @@ color5                      #ff6bb7
 color13                     #ffbae0
 
 #cyan
-color6                      #9698ff
+color6                      #ff54a9
 color14                     #d9c5ff
+
+#white
+color7                      #fff5e7
+color15                     #ffffff
 
 #white
 color7                      #fff5e7
