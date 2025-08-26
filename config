@@ -1,0 +1,47 @@
+#pastel kitty config
+background_opacity 0.5
+background      #1f1f1f
+foreground      #ff9fcf 
+
+font_family      JetBrains Mono
+bold_font        auto 
+italic_font      auto
+bold_italic_font auto
+
+selection_background       #ff9fcf
+selection_foreground       #1e051c       
+   
+
+# terminal colors
+
+#black
+color0                      #000000
+color8                      #53004f
+
+#red
+color1                      #ff50a2
+color9                      #ffabd5
+
+#green
+color2                      #ffdda9
+color10                     #fff3cb
+
+#yellow
+color3                      #d2b0ff 
+color11                     #f6d0ff
+
+#blue
+color4                      #98c5ff
+color12                     #c7ebff
+
+#magenta
+color5                      #ff6bb7
+color13                     #ffbae0
+
+#cyan
+color6                      #9698ff
+color14                     #d9c5ff
+
+#white
+color7                      #fff5e7
+color15                     #ffffff
